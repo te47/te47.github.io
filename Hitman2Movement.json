@@ -1,0 +1,5 @@
+{
+    "version": "1.13.0",
+    "changelog": "Converted relevant files to patch JSON format to resolve deployment warnings. Added automatic updates.",
+    "url": "https://www.dropbox.com/s/68wzgi27lif2uf7/Hitman2Movement.zip?dl=true"
+}
