@@ -1,5 +1,5 @@
 {
     "version": "1.5.1",
-    "changelog": "Added an option to remove Hitman 3's red glare effect that flashes whenever an active camera comes into view. Improved SMF option names/descriptions.",
+    "changelog": "Switched to a different hosting platform to fix automatic updates. Adopted a better version numbering scheme.",
     "url": "https://te47.github.io/SilentCameras.zip"
 }

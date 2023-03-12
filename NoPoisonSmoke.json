@@ -1,5 +1,5 @@
 {
     "version": "1.4.1",
-    "changelog": "Switched to patch JSON format to resolve deployment warnings. Added automatic updates.",
+    "changelog": "Switched to a different hosting platform to fix automatic updates. Adopted a better version numbering scheme.",
     "url": "https://te47.github.io/NoPoisonSmoke.zip"
 }

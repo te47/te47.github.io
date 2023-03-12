@@ -1,5 +1,5 @@
 {
     "version": "1.13.1",
-    "changelog": "Converted relevant files to patch JSON format to resolve deployment warnings. Added automatic updates.",
+    "changelog": "Switched to a different hosting platform to fix automatic updates. Integrated recent fixes/improvements from Hitman 2016 Movement.",
     "url": "https://te47.github.io/Hitman2Movement.zip"
 }

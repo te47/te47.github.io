@@ -1,5 +1,5 @@
 {
     "version": "1.36.0",
-    "changelog": "Improved key unlock sounds (standing and crouching), including audio quality and correction of volume/EQ imbalances. Tweaked standing lockpick audio event timings and volumes.",
+    "changelog": "Added a 'Door Audio' SMF option category independent of 'Door Unlocks'. Improved the default standing lockpick audio. Switched to a different hosting platform to fix automatic updates.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
