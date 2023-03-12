@@ -1,5 +1,5 @@
 {
     "version": "1.36.0",
-    "changelog": "Added 'Door Audio' SMF options for independent selection of lockpick/key audio. Improved default standing lockpick audio. Switched to a different hosting platform to fix automatic updates.",
+    "changelog": "Added independent SMF options for lockpick/key audio selection. Improved the default standing lockpick audio. Switched to a different hosting platform to fix automatic updates.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
