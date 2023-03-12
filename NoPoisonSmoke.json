@@ -1,5 +1,5 @@
 {
-    "version": "4.0.0",
+    "version": "1.4.1",
     "changelog": "Switched to patch JSON format to resolve deployment warnings. Added automatic updates.",
-    "url": "https://www.dropbox.com/s/cihk1aymlfjq26w/NoPoisonSmoke.zip?dl=true"
+    "url": "https://te47.github.io/NoPoisonSmoke.zip"
 }

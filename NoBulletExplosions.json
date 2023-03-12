@@ -1,5 +1,5 @@
 {
-    "version": "3.0.0",
+    "version": "1.3.1",
     "changelog": "Switched to patch JSON format to resolve deployment warnings. Added automatic updates.",
-    "url": "https://www.dropbox.com/s/9pqxxje1zj4n0sv/NoBulletExplosions.zip?dl=true"
+    "url": "https://te47.github.io/NoBulletExplosions.zip"
 }

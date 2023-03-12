@@ -1,5 +1,5 @@
 {
-    "version": "1.35.9",
+    "version": "1.36.0",
     "changelog": "Improved key unlock sounds (standing and crouching), including audio quality and correction of volume/EQ imbalances. Tweaked standing lockpick audio event timings and volumes.",
-    "url": "https://www.dropbox.com/s/shr35qfwtr7wkca/Hitman2016Movement.zip?dl=true"
+    "url": "https://te47.github.io/Hitman2016Movement.zip"
 }

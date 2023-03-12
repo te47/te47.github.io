@@ -1,5 +1,5 @@
 {
-    "version": "6.1.0",
+    "version": "1.6.2",
     "changelog": "Fixed an issue preventing the new 'Performance/Scoring HUD' option from taking effect in-game. (v6 also adds a 'Challenges HUD' option, and revises several options to match in-game settings.)",
-    "url": "https://www.dropbox.com/s/wlh8hy3znr16xt6/ImmersiveSound.zip?dl=true"
+    "url": "https://te47.github.io/ImmersiveSound.zip"
 }
