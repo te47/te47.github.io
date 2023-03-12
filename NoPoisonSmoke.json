@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
-    "changelog": "Switched to a different hosting platform to fix automatic updates. Adopted a better version numbering scheme.",
+    "version": "4.1.0",
+    "changelog": "Switched to a different hosting platform to fix automatic updates.",
     "url": "https://te47.github.io/NoPoisonSmoke.zip"
 }
