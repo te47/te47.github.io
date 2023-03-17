@@ -1,5 +1,5 @@
 {
-    "version": "1.36.1",
-    "changelog": "Revised crouched lockpick audio to improve length, alignment, and overall quality. Tweaked standing lockpick audio timing. Made SMF interface improvements.",
+    "version": "1.36.2",
+    "changelog": "Made several improvements to 1.36.1's crouched lockpick audio. Fixed the vanilla 'Door Unlocks' option not overriding the 2016 'Unlocks Audio' options.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
