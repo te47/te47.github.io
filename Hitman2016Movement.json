@@ -1,5 +1,5 @@
 {
-    "version": "1.36.3",
-    "changelog": "Replaced crouched lockpick audio with a redone version, starting over using the original 2016 source material.",
+    "version": "1.36.4",
+    "changelog": "Made various refinements to all lockpick and key audio (standing and crouching). Improved SMF option descriptions.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
