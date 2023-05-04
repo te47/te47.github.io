@@ -1,5 +1,5 @@
 {
-    "version": "1.36.5",
-    "changelog": "Fixed an error preventing deployment with the current Simple Mod Framework.",
+    "version": "1.36.6",
+    "changelog": "Fixed a minor visual issue with fiberwire kill animations. Fixed 47's position while sitting and using a tablet at the start of a mission.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
