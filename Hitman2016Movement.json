@@ -1,5 +1,5 @@
 {
     "version": "1.36.6",
-    "changelog": "Fixed a minor visual issue with fiberwire kill animations. Corrected 47's position if sitting and using a tablet when a mission starts.",
+    "changelog": "Fixed a minor visual issue with fiberwire kill animations. Corrected 47's position if using a tablet while sitting when a mission starts.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
