@@ -1,5 +1,5 @@
 {
     "version": "1.37.0",
-    "changelog": "Restored 2016 pistol running arm pose. Merged 2016 cover options. Added ladder style option. Fixed aiming consistency with Hitman 3 cover options. Made various minor fixes/refinements. Improved SMF option descriptions.",
+    "changelog": "Restored the 2016 pistol running arm pose. Merged 2016 cover system options into an improved default. Added a 'Ladder Style' option. Fixed aiming consistency with Hitman 3 cover options. Made various minor fixes/refinements. Improved SMF option descriptions.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
