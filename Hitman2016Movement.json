@@ -1,5 +1,5 @@
 {
     "version": "1.37.2",
-    "changelog": "Fixed reload issues for certain weapons caused by 1.37's animation sweeps. Refined SMF option descriptions.",
+    "changelog": "Fixed issues with certain reload animations caused by 1.37's animation sweeps. Refined SMF option descriptions.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
