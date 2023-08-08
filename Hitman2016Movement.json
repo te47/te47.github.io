@@ -1,5 +1,5 @@
 {
     "version": "1.38.0",
-    "changelog": "Overhauled arm/grip poses for all two-handed firearms. Added a Hitman 2016/Hitman 2 assault rifle grip pose option. Re-extracted numerous Hitman 2016 animations related to weapon handling aesthetics. Made the weapon recoil option apply to pistols only. Removed the experimental right arm pose option (available for manual download).",
+    "changelog": "Overhauled arm/grip poses for all two-handed firearms. Added a Hitman 2016/Hitman 2 assault rifle grip pose option. Re-extracted numerous Hitman 2016 animations related to weapon handling aesthetics. Changed the weapon recoil option to apply to pistols only. Removed the experimental right arm pose option (available for manual download).",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
