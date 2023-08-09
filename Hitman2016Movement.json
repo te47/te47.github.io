@@ -1,5 +1,5 @@
 {
-    "version": "1.38.1",
-    "changelog": "Improved visual authenticity of the 2016 pistol stand/walk/run arm poses. Fixed a vanilla walking arm pose bug frequency increase (1.38.0 issue).",
+    "version": "1.38.2",
+    "changelog": "Resolved lingering issues related to pistol arm pose behavior. Reverted to pre-1.38.1 pistol arm pose configuration (pending review).",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
