@@ -1,5 +1,5 @@
 {
-    "version": "1.38.4",
-    "changelog": "Located the unlabeled arm pose used for running with most assault rifles and replaced it with a better option. Refined AR standing idle and walk poses.",
+    "version": "1.38.5",
+    "changelog": "Overhauled weapon position settings for the 2016 rifle grip option's 13 AR models. Restored an unlabeled animation for the classic acrobatics option.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
