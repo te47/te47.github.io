@@ -1,5 +1,5 @@
 {
-    "version": "1.38.6",
-    "changelog": "Made additional weapon/hand position refinements for the 2016 rifle grip option. Restored an inverted window animation for the 'Default' and 'Modern' acrobatics options.",
+    "version": "1.39.0",
+    "changelog": "Fixed the vanilla Hitman 2 and 3 bug that stops weapon/item right arm walking poses at random (pistols, knives, car batteries, etc.).",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
