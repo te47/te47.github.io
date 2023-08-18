@@ -1,5 +1,5 @@
 {
     "version": "1.39.1",
-    "changelog": "1.39.0: Fixed the vanilla Hitman 2 and 3 bug that breaks right arm weapon/item walking poses at random. 1.39.1: Accurately restored Hitman 2016's motion and angle for the running pistol arm pose.",
+    "changelog": "1.39.0: Fixed the vanilla Hitman 2 and 3 bug that breaks right arm weapon/item walking poses at random. 1.39.1: Accurately restored Hitman 2016's motion and angle for the pistol running arm pose.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
