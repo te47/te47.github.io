@@ -1,5 +1,5 @@
 {
     "version": "1.39.2",
-    "changelog": "Fully restored the 2016 crouched walking animation loop, fixing minor visual issues. Restored all 2016 crouched pistol arm poses (idle/walk/run).",
+    "changelog": "Fully restored the 2016 crouch walk animation loop, fixing minor visual issues. Restored 2016 crouched idle/walk/run pistol arm poses. (1.39: Fixed the vanilla H2/H3 walking arm pose bug.)",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
