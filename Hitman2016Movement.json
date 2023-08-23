@@ -1,5 +1,5 @@
 {
-    "version": "1.39.3",
-    "changelog": "Fixed the vanilla bug that makes 47's hand grip reset and clip through items (busts, soda cans, etc.). Refined certain pose selections. {1.39: Fixed the vanilla H2/H3 walking arm pose bug.}",
+    "version": "1.39.4",
+    "changelog": "Restored Hitman 2016 fiberwire animations/transitions (pre-1.36.6) and fixed the bug responsible for their removal. Improved arm pose behavior for most one-handed items and melee weapons.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
