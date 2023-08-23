@@ -1,5 +1,5 @@
 {
     "version": "1.39.5",
-    "changelog": "Applied the same visual bug fix to all fiberwire variants used with the restored pre-1.36.6 Hitman 2016 fiberwire animations/transitions.",
+    "changelog": "Fixed the same visual issue for all fiberwire variants used with the restored pre-1.36.6 Hitman 2016 fiberwire animations/transitions.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
