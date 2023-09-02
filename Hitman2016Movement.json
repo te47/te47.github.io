@@ -1,5 +1,5 @@
 {
     "version": "1.40.1",
-    "changelog": "Overhauled all cover system options, using 71 newly-identified weapon/item poses to make case-by-case selections. Fixed numerous cover system issues and added a new option. {1.4.1: Fixed minor transition issues when using the new 'Hitman 2016 (Modern)' cover option.}",
+    "changelog": "Overhauled all cover system options, using 71 newly-identified weapon/item poses to make case-by-case selections. Fixed several cover-related visual issues and added a 'Hitman 2016 (Modern)' option. {1.4.1: Fixed minor transition issues when using the new cover option.}",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
