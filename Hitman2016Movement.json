@@ -1,5 +1,5 @@
 {
-    "version": "1.40.1",
-    "changelog": "1.40: Overhauled all cover system options, including case-by-case selections of 71 newly-identified weapon/item poses. Fixed several cover-related visual issues and added a 'Hitman 2016 (Modern)' option. {1.4.1: New option transition hotfix.}",
+    "version": "1.40.2",
+    "changelog": "1.40.2: Restored 100% authentic 2016 pistol stand/crouch cover arm pose angles (2016 options only). Improved dust particle emitter positions for ledge movement.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
