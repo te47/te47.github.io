@@ -1,5 +1,5 @@
 {
-    "version": "1.40.5",
-    "changelog": "Fixed a common vanilla issue with missing ladder top dismount audio. Fixed post-1.40 issues with the vanilla setup for cover idle animations.",
+    "version": "1.41.0",
+    "changelog": "Constructed a 2016-style idle animation network with 154 item-based conditional states and full briefcase/cover support, plus 6 SMF options. Revised numerous animation and pose selections.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
