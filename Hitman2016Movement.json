@@ -1,5 +1,5 @@
 {
     "version": "1.41.0",
-    "changelog": "Constructed a 2016-style idle animation network with 154 conditional states and full support for cover, briefcases, and idle weapon handling. Added 6 SMF optons. Revised existing content.",
+    "changelog": "Constructed a 2016-style idle animation network with 154 conditional states and full support for cover, briefcases, and idle weapon handling. Added 6 SMF options. Revised existing content.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
