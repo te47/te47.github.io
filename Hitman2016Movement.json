@@ -1,5 +1,5 @@
 {
     "version": "1.41.3",
-    "changelog": "1.41: Constructed a 2016-style idle animation network fully integrating cover, briefcases, and weapon handling. Added 6 SMF options. (1.41.3: Fixed a pistol idle animation audio issue.)",
+    "changelog": "1.41: Constructed a 2016-style idle animation network fully integrating cover, briefcases, and weapon handling. Added 6 idle system SMF options. (1.41.3: Fixed a pistol idle animation audio issue.)",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
