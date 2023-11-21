@@ -1,5 +1,5 @@
 {
-    "version": "1.41.6",
-    "changelog": "Refined dynamic idle weapon handling and revised the setup for pistols and knives. Improved idle animation selections.",
+    "version": "1.41.7",
+    "changelog": "Made various improvements to idle standing and weapon handling, including a new pistol/knife timing randomization setup.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
