@@ -1,5 +1,5 @@
 {
-    "version": "1.41.7",
-    "changelog": "Made various improvements to idle standing and weapon handling, including a new pistol/knife timing randomization setup.",
+    "version": "1.41.8",
+    "changelog": "Refined generic stand and sneak idle animation settings. Fixed a left hand control issue when standing nothing equipped.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
