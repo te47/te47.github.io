@@ -1,5 +1,5 @@
 {
     "version": "1.41.8",
-    "changelog": "Refined generic stand/sneak idle animation settings. Fixed a left hand control issue when standing with nothing equipped.",
+    "changelog": "Refined generic stand/sneak idle animation settings. Fixed a minor left hand issue when standing with nothing equipped.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
