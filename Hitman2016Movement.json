@@ -1,5 +1,5 @@
 {
     "version": "1.41.11",
-    "changelog": "Made minor idle system timing and weapon handling improvements. Fixed the 'Hitman 3 (Vanilla)' cover system option.",
+    "changelog": "Made minor improvements to idle system time settings and weapon handling. Fixed the vanilla cover system SMF option.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
