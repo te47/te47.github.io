@@ -1,5 +1,5 @@
 {
-    "version": "1.41.10",
-    "changelog": "Replaced/optimized several old files to prevent potential loading screen crashes. Tweaked idle system time settings.",
+    "version": "1.41.11",
+    "changelog": "Made various minor idle system timing and weapon handling improvements. Fixed the vanilla cover system SMF option.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
