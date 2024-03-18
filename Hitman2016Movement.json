@@ -1,5 +1,5 @@
 {
-    "version": "1.42.2",
-    "changelog": "1:42: Overhauled standing idle animations/settings and added a 'Fidgets Style' option category. Fixed a vanilla pistol recoil bug and made it a new option. Fixed various minor issues. {1.42.2: Fixed a potential deployment error.}",
+    "version": "1.42.3",
+    "changelog": "1:42: Overhauled standing idle animations/settings and added a 'Fidgets Style' option category. Fixed a vanilla pistol recoil bug and made it a new option. Fixed various minor issues. {1.42.3: Made minor improvements to Hitman 2016 idle system time settings.}",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
