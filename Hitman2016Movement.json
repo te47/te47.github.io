@@ -1,5 +1,5 @@
 {
-    "version": "1.42.4",
-    "changelog": "Revised timings for Hitman 2016 'Default' and 'Modern' idle system options and made various refinements. Improved cutoff times for Hitman 2016 fidget animations.",
+    "version": "1.42.5",
+    "changelog": "Addressed an animation network slot issue in the 'Hitman 2016 (Modern)' and 'Hitman 3' fidget style options. Refined timings for Hitman 2016 idle system options.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
