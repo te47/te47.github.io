@@ -1,5 +1,5 @@
 {
-    "version": "1.42.9",
-    "changelog": "Replaced the idle weight shift animation setup to fix an x-axis flipping issue related to cover. Refined Hitman 2016 idle system time settings.",
+    "version": "1.42.10",
+    "changelog": "Improved Hitman 2016 idle system time settings for standing fidgets and idle weapon handling.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
