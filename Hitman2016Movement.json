@@ -1,5 +1,5 @@
 {
-    "version": "1.42.13",
-    "changelog": "Adjusted idle disguise animation start delays and priorities to complement generic idle animations. Tweaked Hitman 2016 idle system settings.",
+    "version": "1.42.14",
+    "changelog": "Improved various Hitman 2016 fidget animation cutoffs and idle system time settings.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
