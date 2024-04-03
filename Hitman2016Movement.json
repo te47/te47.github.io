@@ -1,5 +1,5 @@
 {
-    "version": "1.42.16",
-    "changelog": "Refined various idle system timings/settings. Updated networks for generic standing idle animations using 3.180.0 vanilla game content.",
+    "version": "1.42.17",
+    "changelog": "Refined Hitman 2016 idle system time settings and randomization for generic standing and weight shift idle animations.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
