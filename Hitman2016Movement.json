@@ -1,5 +1,5 @@
 {
-    "version": "1.43.0",
-    "changelog": "Overhauled all Hitman 2016 idle animation ending cutoffs/transitions. Improved various idle system settings for standing and crouching.",
+    "version": "1.43.1",
+    "changelog": "Completed a refinement pass for 1.43's overhauled Hitman 2016 idle animation cutoffs/transitions. Tweaked idle system time settings.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
