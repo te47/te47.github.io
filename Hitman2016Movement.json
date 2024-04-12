@@ -1,5 +1,5 @@
 {
     "version": "1.43.4",
-    "changelog": "Fixed standing idle animations affecting looped breathing animation arm movement. Improved idle animation time settings and endings.",
+    "changelog": "Fixed standing idle animations affecting looped breathing animation arm movements. Improved idle animation time settings and endings.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
