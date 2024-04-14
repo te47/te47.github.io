@@ -1,5 +1,5 @@
 {
     "version": "1.43.4",
-    "changelog": "Improved idle system timings and arm control settings. Refined Hitman 2016 idle animation endings.",
+    "changelog": "Improved idle system timings and arm control settings. Refined Hitman 2016 idle animation ending cutoffs/transitions.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
