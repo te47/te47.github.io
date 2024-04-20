@@ -1,5 +1,5 @@
 {
     "version": "1.43.6",
-    "changelog": "Corrected idle system item/weapon timing disparities related to 1.43.5's revisions. {1.43.5: Completed a thorough refinement pass for Hitman 2016 idle animation endings/cutoffs. Revised idle system time settings.}",
+    "changelog": "1.43.6: Corrected idle system item/weapon timing disparities related to 1.43.5's revisions. {1.43.5: Completed a thorough refinement pass for Hitman 2016 idle animation endings/cutoffs. Revised idle system time settings.}",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
