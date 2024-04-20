@@ -1,5 +1,5 @@
 {
     "version": "1.43.6",
-    "changelog": "Corrected idle system timing disparities for certain item/weapon types related to 1.43.5's revisions.",
+    "changelog": "Corrected idle system timing disparities for certain item/weapon types caused by 1.43.5's revisions.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
