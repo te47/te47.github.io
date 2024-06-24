@@ -1,5 +1,5 @@
 {
-    "version": "1.44.1",
-    "changelog": "Made various substantial refinements to Hitman 2016 generic and weapon idle animation endings. Improved idle system time settings.",
+    "version": "1.44.2",
+    "changelog": "Refined 1.44.1's changes to idle system time settings. Revised certain file selections/interactions.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
