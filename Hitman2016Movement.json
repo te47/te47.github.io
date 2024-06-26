@@ -1,5 +1,5 @@
 {
-    "version": "1.44.3",
-    "changelog": "Improved Hitman 2016 idle system time settings when standing with no item/weapon equipped.",
+    "version": "1.44.4",
+    "changelog": "Switched walking idle animations to a unique animation network to prevent potential conflicts with other idle states.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
