@@ -1,5 +1,5 @@
 {
-    "version": "1.45.2",
-    "changelog": "Disabled generic walking idle animations for all Hitman 2016 'Idle System' options, for 2016 authenticity and due to intermittent vanilla Hitman 2 and 3 visual issues.",
+    "version": "1.45.3",
+    "changelog": "Improved Hitman 2016 idle system time and priority settings.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
