@@ -1,5 +1,5 @@
 {
     "version": "1.45.4",
-    "changelog": "Refined Hitman 2016 idle system time settings. Reverted 1.45.1's walking idle animation selections for Hitman 2 and 3 'Idle System' options.",
+    "changelog": "Refined Hitman 2016 idle system time settings. Reverted 1.45.1's walking idle animation selection changes for Hitman 2 and 3 'Idle System' options.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
