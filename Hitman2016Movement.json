@@ -1,5 +1,5 @@
 {
-    "version": "1.46.0",
-    "changelog": "Selected a new generic standing idle animation shared by all 'Fidgets Style' options for a problematic network slot. Adjusted idle system time and priority settings based on other recent changes.",
+    "version": "1.46.1",
+    "changelog": "Revised generic standing idle animation start times for Hitman 2016 idle system options.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
