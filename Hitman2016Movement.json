@@ -1,5 +1,5 @@
 {
-    "version": "1.47.0",
-    "changelog": "Overhauled generic standing idle animations by utilizing the vanilla animation network, eliminating a longstanding slot mirroring issue and increasing randomization.",
+    "version": "1.47.1",
+    "changelog": "Adjusted Hitman 2016 idle system time settings to compensate for timing differences in the new generic standing idle animation network.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
