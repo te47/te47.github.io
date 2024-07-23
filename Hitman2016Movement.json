@@ -1,5 +1,5 @@
 {
     "version": "1.47.2",
-    "changelog": "Revised Hitman 2016 idle system time settings to work better with the new generic standing idle animation network.",
+    "changelog": "Revised Hitman 2016 idle system time settings to better complement the new generic standing idle animation network.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
