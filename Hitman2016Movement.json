@@ -1,5 +1,5 @@
 {
-    "version": "1.47.3",
-    "changelog": "Revised idle state priority settings for increased reliability. Improved idle system arm control settings.",
+    "version": "1.47.4",
+    "changelog": "Made refinements to Hitman 2016 and Hitman 2 generic idle animation endings/cutoffs. Adjusted priority settings for certain disguise idle states.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
