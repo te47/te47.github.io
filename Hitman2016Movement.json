@@ -1,5 +1,5 @@
 {
-    "version": "1.47.6",
-    "changelog": "Improved idle system arm control settings. Refined Hitman 2016 generic idle animation endings/cutoffs.",
+    "version": "1.47.7",
+    "changelog": "Refined several Hitman 2016/Hitman 2 generic idle animation endings. Improved idle weight shift animation arm control settings.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
