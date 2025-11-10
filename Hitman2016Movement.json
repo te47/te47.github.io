@@ -1,5 +1,5 @@
 {
-    "version": "1.48.1",
-    "changelog": "Fixed back-mounted weapons clipping through 47 at a bad angle if aiming two-handed weapons while standing.",
+    "version": "1.48.2",
+    "changelog": "Fixed an issue when firing rifles using the default 2016 rifle grip option, caused by the latest vanilla game update.",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
