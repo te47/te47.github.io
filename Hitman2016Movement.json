@@ -1,5 +1,5 @@
 {
     "version": "1.48.2",
-    "changelog": "Fixed an issue when firing rifles using the default 2016 rifle grip option, caused by the latest vanilla game update.",
+    "changelog": "Fixed an issue with firing rifles when using the default 2016 rifle grip option, caused by the latest vanilla game update (3.240.3).",
     "url": "https://te47.github.io/Hitman2016Movement.zip"
 }
