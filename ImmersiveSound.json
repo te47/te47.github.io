@@ -1,5 +1,5 @@
 {
     "version": "1.6.3",
-    "changelog": "Fixed issues with muted instinct and objective sounds caused by a recent vanilla game update.",
+    "changelog": "Fixed issues with muted instinct and objective sounds caused by a recent vanilla game update. (Fix by VoodooHillbilly)",
     "url": "https://te47.github.io/ImmersiveSound.zip"
 }
